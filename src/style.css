@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to top, #343a40, #212529); /* Adjust the color values as needed */
+    color: white; /* Set text color to white or a suitable contrasting color */
+}
+
+.card-dark-bg {
+    background-color: rgba(52, 58, 64, 0.8); /* Use rgba for a semi-transparent background, adjust the color and alpha (0.8) as needed */
+    border: none; /* Remove the card border, if needed */
+    color: white; /* Set the text color inside the card */
+    width:600px;
+}
